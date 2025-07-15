@@ -22,30 +22,28 @@
 
 ###
 
-<h3 align="center">Android Software Engineer from Egypt</h3>
+<h2 align="center">Android Software Engineer from Egypt</h2>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h2 align="left">👩‍💻  About Me</h2>
 
 ###
 
-<p align="left">🎓 I'm an enthusiastic and committed Computer Engineering student with a strong academic background and hands-on technical skills.<br><br>💻 Passionate about technology, especially in the fields of **Android Development** and **Artificial Intelligence**.<br><br>🚀 I build modern Android apps using **Jetpack Compose**, **Retrofit**, and **Room Database**, and I enjoy crafting clean, scalable code using principles like **Object-Oriented Programming**, **Design Patterns**, and solid foundations in **Data Structures and Algorithms (DSA)**.<br><br>🔭 Currently working on Android projects that combine beautiful UI with efficient backend integration, and always looking to explore cutting-edge tech and real-world problem solving.</p>
+<p align="left">🎓 I'm an enthusiastic and committed Computer Engineering student with a strong academic background and hands-on technical skills.<br><br>💻 Passionate about technology, especially in the fields of Android Development and Artificial Intelligence.<br><br>🚀 I build modern Android apps using Jetpack Compose, Retrofit, and Room Database, and I enjoy crafting clean, scalable code using principles like Object-Oriented Programming, Design Patterns, and solid foundations in Data Structures and Algorithms (DSA).<br><br>🔭 Currently working on Android projects that combine beautiful UI with efficient backend integration, and always looking to explore cutting-edge tech and real-world problem solving.</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
@@ -58,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h2 align="left">🔥   My Stats :</h2>
 
 ###
 
